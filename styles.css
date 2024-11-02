@@ -47,3 +47,7 @@ figure {
     font-size: 14px;
     margin-left: 30px;
 }
+
+body {
+    line-height: 1.5;
+}
