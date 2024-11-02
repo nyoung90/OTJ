@@ -31,3 +31,13 @@ h4{
     font-size: 15px;
     margin-left: 15px;
 }
+
+figure {
+    text-align: center;
+}
+
+.image {
+    display: block;      /* Makes image a block element */
+    margin: 0 auto;
+    border: 0.5em solid purple;
+}
