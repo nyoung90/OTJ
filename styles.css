@@ -51,3 +51,14 @@ figure {
 body {
     line-height: 1.5;
 }
+
+h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
