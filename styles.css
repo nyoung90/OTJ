@@ -40,6 +40,7 @@ figure {
     display: block;      /* Makes image a block element */
     margin: 0 auto;
     border: 0.5em solid purple;
+    padding: 5px;
 }
 
 .menu-items {
