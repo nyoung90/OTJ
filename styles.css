@@ -80,8 +80,20 @@ p {
 
 #social-footer {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
+    flex-direction: column;
+    align-items: center;
     padding: 10px;
+    gap: 10px;
+}
+
+#social-footer p {
+    margin-top: 20px;
+    font-size: 14px;
+    color: purple;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
