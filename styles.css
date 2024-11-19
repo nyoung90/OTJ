@@ -97,3 +97,9 @@ p {
     justify-content: center;
     gap: 20px;
 }
+
+/* Initially hide the image */
+.hidden {
+    opacity: 0; /* Make the image invisible */
+    transition: opacity 600s ease-in; /* Smooth fade-in effect */
+}
